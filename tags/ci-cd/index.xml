@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ci-Cd on Anto Mathew - Portfolio</title><link>https://anto-mathew.github.io/tags/ci-cd/</link><description>Recent content in Ci-Cd on Anto Mathew - Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/ci-cd/index.xml" rel="self" type="application/rss+xml"/><item><title>Docker &amp; Kubernetes Deployment – DevOps Setup</title><link>https://anto-mathew.github.io/projects/kubernetes-devops/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>https://anto-mathew.github.io/projects/kubernetes-devops/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>A fully containerized DevOps environment used to deploy modern PHP + Node + React applications to AWS.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Single Docker image containing Nginx + PHP + MySQL (local dev)&lt;/li>
+&lt;li>Kubernetes manifests for deployments &amp;amp; services&lt;/li>
+&lt;li>GitLab CI/CD pipeline for automated deployment to EC2&lt;/li>
+&lt;li>Makefile for:
+&lt;ul>
+&lt;li>Composer install&lt;/li>
+&lt;li>Build&lt;/li>
+&lt;li>Deploy&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Terraform optional for infrastructure provisioning&lt;/li>
+&lt;/ul>
+&lt;h2 id="responsibilities">Responsibilities&lt;/h2>
+&lt;ul>
+&lt;li>Built Dockerfile with optimized layers&lt;/li>
+&lt;li>Configured Kubernetes deployment &amp;amp; service YAML&lt;/li>
+&lt;li>Added Nginx reverse proxy rules&lt;/li>
+&lt;li>Created GitLab CI pipeline for build → push → deploy&lt;/li>
+&lt;li>Deployed to AWS EC2 via kubectl&lt;/li>
+&lt;/ul>
+&lt;h2 id="tech-stack">Tech Stack&lt;/h2>
+&lt;p>&lt;strong>Docker, Kubernetes, AWS EC2, GitLab CI/CD, Makefile, Nginx&lt;/strong>.&lt;/p></description></item></channel></rss>

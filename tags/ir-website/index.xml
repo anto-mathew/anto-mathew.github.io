@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ir-Website on Anto Mathew - Portfolio</title><link>https://anto-mathew.github.io/tags/ir-website/</link><description>Recent content in Ir-Website on Anto Mathew - Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/ir-website/index.xml" rel="self" type="application/rss+xml"/><item><title>React-Based Investor Relations Website</title><link>https://anto-mathew.github.io/projects/react-ir-website/</link><pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><guid>https://anto-mathew.github.io/projects/react-ir-website/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>A modern &lt;strong>React.js Investor Relations (IR) website&lt;/strong> for corporate financial reporting, regulatory disclosures, and investor communications.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Dynamic pages generated using JSON routing&lt;/li>
+&lt;li>Reusable components for results, financial statements, filings&lt;/li>
+&lt;li>API integrated for disclosures such as:
+&lt;ul>
+&lt;li>Annual Reports&lt;/li>
+&lt;li>Earnings Releases&lt;/li>
+&lt;li>Press Announcements&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>SEO-ready &amp;amp; mobile-optimized layout&lt;/li>
+&lt;li>Light and fast UI using modern React hooks&lt;/li>
+&lt;/ul>
+&lt;h2 id="responsibilities">Responsibilities&lt;/h2>
+&lt;ul>
+&lt;li>Architected the full UI component system&lt;/li>
+&lt;li>Implemented routing using JSON-driven configuration&lt;/li>
+&lt;li>Integrated with backend IR API&lt;/li>
+&lt;li>Created reusable templates for financial widgets&lt;/li>
+&lt;/ul>
+&lt;h2 id="tech-stack">Tech Stack&lt;/h2>
+&lt;p>&lt;strong>React.js, Vite, TailwindCSS, REST API&lt;/strong>.&lt;/p></description></item></channel></rss>

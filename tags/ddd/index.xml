@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ddd on Anto Mathew - Portfolio</title><link>https://anto-mathew.github.io/tags/ddd/</link><description>Recent content in Ddd on Anto Mathew - Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml"/><item><title>Symfony Microservices Architecture</title><link>https://anto-mathew.github.io/projects/symfony-microservices/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://anto-mathew.github.io/projects/symfony-microservices/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>A complete &lt;strong>microservices-based backend platform&lt;/strong> built with &lt;strong>Symfony&lt;/strong>, using &lt;strong>API Platform&lt;/strong>, &lt;strong>DDD&lt;/strong>, &lt;strong>CQRS&lt;/strong>, and &lt;strong>JWT authentication&lt;/strong>.&lt;br>
+Designed for high scalability, modularity, and real-world enterprise workflows.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>Microservice separation: Auth, User, Employee, Department&lt;/li>
+&lt;li>JWT-based authentication &amp;amp; role authorization&lt;/li>
+&lt;li>Domain-driven folder structure&lt;/li>
+&lt;li>Event-driven communication (RabbitMQ optional)&lt;/li>
+&lt;li>Fully containerized using Docker&lt;/li>
+&lt;li>API documentation auto-generated via Swagger / API Platform&lt;/li>
+&lt;li>Database migrations using Doctrine&lt;/li>
+&lt;/ul>
+&lt;h2 id="responsibilities">Responsibilities&lt;/h2>
+&lt;ul>
+&lt;li>Designed entire microservice architecture&lt;/li>
+&lt;li>Implemented secure authentication service&lt;/li>
+&lt;li>Built admin dashboard APIs for employee creation&lt;/li>
+&lt;li>Implemented service-to-service communication&lt;/li>
+&lt;li>Set up CI/CD pipeline for deployment&lt;/li>
+&lt;/ul>
+&lt;h2 id="tech-stack">Tech Stack&lt;/h2>
+&lt;p>&lt;strong>Symfony 7&lt;/strong>, &lt;strong>PHP 8.2&lt;/strong>, &lt;strong>API Platform&lt;/strong>, &lt;strong>JWT&lt;/strong>, &lt;strong>MySQL&lt;/strong>, &lt;strong>Docker&lt;/strong>, &lt;strong>RabbitMQ (optional)&lt;/strong>.&lt;/p></description></item></channel></rss>

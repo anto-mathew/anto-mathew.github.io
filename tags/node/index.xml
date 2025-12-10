@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Node on Anto Mathew - Portfolio</title><link>https://anto-mathew.github.io/tags/node/</link><description>Recent content in Node on Anto Mathew - Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/node/index.xml" rel="self" type="application/rss+xml"/><item><title>Node.js CLI Tool for Content Migration</title><link>https://anto-mathew.github.io/projects/node-cli-migration-tool/</link><pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate><guid>https://anto-mathew.github.io/projects/node-cli-migration-tool/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>A powerful &lt;strong>Node.js-based CLI tool&lt;/strong> for automated content migration between legacy CMS systems.&lt;/p>
+&lt;h2 id="capabilities">Capabilities&lt;/h2>
+&lt;ul>
+&lt;li>Folder traversal and file extraction&lt;/li>
+&lt;li>JSON → TypeScript model auto-generation&lt;/li>
+&lt;li>HTML cleanup and sanitization&lt;/li>
+&lt;li>Bulk migration with progress tracking&lt;/li>
+&lt;li>Error logging and retry functionality&lt;/li>
+&lt;/ul>
+&lt;h2 id="responsibilities">Responsibilities&lt;/h2>
+&lt;ul>
+&lt;li>Designed CLI structure using Commander.js&lt;/li>
+&lt;li>Implemented file system utilities&lt;/li>
+&lt;li>Automated Blade/HTML cleanup functionality&lt;/li>
+&lt;li>Added support for dynamic component generation&lt;/li>
+&lt;/ul>
+&lt;h2 id="tech-stack">Tech Stack&lt;/h2>
+&lt;p>&lt;strong>Node.js&lt;/strong>, &lt;strong>Commander.js&lt;/strong>, &lt;strong>TypeScript&lt;/strong>, &lt;strong>FS module&lt;/strong>.&lt;/p></description></item></channel></rss>
